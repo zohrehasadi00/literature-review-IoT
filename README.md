@@ -1,7 +1,6 @@
 # proSeminar
-#Security in IoT devices: Examination of various protective mechanisms in smart home networks
 
-# Smart Home Security and Privacy Overview
+# Security in IoT devices: Examination of various protective mechanisms in smart home networks
 
 ## Introduction
 
